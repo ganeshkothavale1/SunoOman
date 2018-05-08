@@ -4,6 +4,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@android:color/background_dark">
+    
+    
 
     <ImageButton
         android:layout_width="20dp"
