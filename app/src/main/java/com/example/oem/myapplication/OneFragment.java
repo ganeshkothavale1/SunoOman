@@ -29,7 +29,7 @@ public class OneFragment extends Fragment{
     MediaPlayer mediaPlayer;
     ProgressDialog progressDialog;
     boolean initialStage = true;
-    String stream ="http://sunooman.out.airtime.pro:8000/sunooman_a";
+    String stream ="http://stream.radiojar.com/raw5kakmyneuv";
     boolean prepared=false,started=false;
     View view;
     public OneFragment() {
